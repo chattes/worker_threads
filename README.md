@@ -12,7 +12,10 @@ task.
 
 At first we can run the file
 
-`node serialProcessing.js`
+```
+node serialProcessing.js
+```
+
 This will run the task using a single Core. This a blocking task and we end up
 requiring around 90 seconds to complete the task.
 
